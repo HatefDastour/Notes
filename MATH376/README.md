@@ -8,4 +8,4 @@
 
 
 
-[Load all files on syzygy.ca] (https://ucalgary.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/HatefDastour/Python/blob/master/MATH376/)
+[Load](https://ucalgary.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/HatefDastour/Python/blob/master/MATH376/) all files on syzygy.ca 

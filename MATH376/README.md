@@ -3,3 +3,9 @@
 ## MATH 376
 
 * [Exercises 1.2 ](https://github.com/HatefDastour/Python/blob/master/MATH376/Exercises_1_2.ipynb)
+
+
+
+
+
+[Load all files on syzygy.ca] (https://ucalgary.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/HatefDastour/Python/blob/master/MATH376/)

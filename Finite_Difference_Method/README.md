@@ -3,14 +3,14 @@
 ## Finite Difference Methods
 
 * One Dimensional Wave Equation in Time Domain
-	* [Second-Order Finite-Difference Methods](#Finite_Difference_Method\Second-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
-	* [A Fourth-Order Finite-Difference Method](#Finite_Difference_Method\A_Fourth-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
+	* [Second-Order Finite-Difference Methods](Second-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](A_Fourth-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
 * Two Dimensional Wave Equation in Time Domain
-	* [Second-Order Finite-Difference Methods](#Finite_Difference_Method\Second-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
-	* [A Fourth-Order Finite-Difference Method](#Finite_Difference_Method\A_Fourth-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
+	* [Second-Order Finite-Difference Methods](Second-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](A_Fourth-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
 * Three Dimensional Wave Equation in Time Domain
-	* [Second-Order Finite-Difference Methods](#Finite_Difference_Method\Second-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
-	* [A Fourth-Order Finite-Difference Method](#Finite_Difference_Method\A_Fourth-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
+	* [Second-Order Finite-Difference Methods](Second-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](A_Fourth-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
 
 
 ## Copyright and License

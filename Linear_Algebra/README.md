@@ -1,14 +1,14 @@
-# Numerical Analysis
+# Linear Algebra
 
 ## Table of contents
 
-* [Root-finding algorithms](Root_finding_algorithms.ipynb)
-* [Fixed-point iteration](Fixed_point_iteration.ipynb)
-* [Polynomial Interpolation](Polynomial_Interpolation.ipynb)
-* [Numerical Integration](Numerical_Integration.ipynb)
-* [Numerical Differentiation](Numerical_Differentiation.ipynb)
-* [Linear Systems](Linear_Systems.ipynb)
-* [Numerical Solution of ODEs](Numerical_Solution_of_ODEs.ipynb)
+* [Systems of Equations](Systems_of_Equations.ipynb)
+* [Matrices](Matrices.ipynb)
+* [Determinants](Determinants.ipynb)
+* [Vectors_in_Rn](Vectors_in_Rn.ipynb)
+* [Complex Numbers](Complex_Numbers.ipynb)
+* [Spectral Theory](Spectral_Theory.ipynb)
+* [Markov Matrices](Markov_Matrices.ipynb)
 
 ## Copyright and License
 

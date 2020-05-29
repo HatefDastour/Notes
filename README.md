@@ -1,1 +1,102 @@
+# Notes
 
+## Data_Science
+
+### Python
+* [Getting Started with Python](Getting_Started/Getting_Started.ipynb)
+
+### Image and Signal Processing
+* [Image Processing using Robust PCA](Data_Science/IP_PCA.ipynb)
+* [Data Smoothing](Data_Science/Data_Smoothing.ipynb)
+
+### Preprocessing
+* [Preprocessing Data in Python](Data_Science/Preprocessing_Data_in_Python.ipynb)
+
+### Supervised Learning
+* [The Importance of Resampling and Regularization](Data_Science/Resampling_and_Regularization.ipynb)
+* [Supervised Learning Regression Models](Data_Science/Supervised_Learning_Regression_Models.ipynb)
+
+## Deep Learning
+
+* [Getting_Started_with_Pytorch](Deel_Learning/Getting_Started_with_Pytorch.ipynb)
+* [Digit_Recognizer with Pytorch (Pytorch Logistic Regression and Artificial Neural Network)](Deel_Learning/Digit_Recognizer_with_Pytorch.ipynb)
+
+## Differential Equations
+* [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)
+
+## Finite Difference Method
+
+* One Dimensional Wave Equation in Time Domain
+	* [Second-Order Finite-Difference Methods](Finite_Difference_Method/Second-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](Finite_Difference_Method/A_Fourth-Order_FDTD_for_the_1D_Wave_Equation.ipynb)
+* Two Dimensional Wave Equation in Time Domain
+	* [Second-Order Finite-Difference Methods](Finite_Difference_Method/Second-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](Finite_Difference_Method/A_Fourth-Order_FDTD_for_the_2D_Wave_Equation.ipynb)
+* Three Dimensional Wave Equation in Time Domain
+	* [Second-Order Finite-Difference Methods](Finite_Difference_Method/Second-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
+	* [A Fourth-Order Finite-Difference Method](Finite_Difference_Method/A_Fourth-Order_FDTD_for_the_3D_Wave_Equation.ipynb)
+
+## Linear Algebra
+* [Getting Started with Python](Getting_Started/Getting_Started.ipynb)
+* [Systems of Equations](Linear_Algebra/Systems_of_Equations.ipynb)
+* [Matrices](Linear_Algebra/Matrices.ipynb)
+* [Determinants](Linear_Algebra/Determinants.ipynb)
+* [Vectors_in_Rn](Linear_Algebra/Vectors_in_Rn.ipynb)
+* [Complex Numbers](Linear_Algebra/Complex_Numbers.ipynb)
+* [Spectral Theory](Linear_Algebra/Spectral_Theory.ipynb)
+* [Markov Matrices](Linear_Algebra/Markov_Matrices.ipynb)
+
+## Numerical Analysis
+* [Getting Started with Python](Getting_Started/Getting_Started.ipynb)
+* [Root-finding algorithms](Numerical_Analysis/Root_finding_algorithms.ipynb)
+* [Fixed-point iteration](Numerical_Analysis/Fixed_point_iteration.ipynb)
+* [Polynomial Interpolation](Numerical_Analysis/Polynomial_Interpolation.ipynb)
+* [Numerical Integration](Numerical_Analysis/Numerical_Integration.ipynb)
+* [Numerical Differentiation](Numerical_Analysis/Numerical_Differentiation.ipynb)
+* [Linear Systems](Numerical_Analysis/Linear_Systems.ipynb)
+* [Numerical Solution of ODEs](Numerical_Analysis/Numerical_Solution_of_ODEs.ipynb)
+
+## SQL
+* [Python sqlite3](SQL/Python_sqlite3.ipynb)
+* [SQL_Pandas](SQL/SQL_Pandas.ipynb)
+* [MySQL and Python](SQL/MySQL_and_Python.ipynb)
+
+## Statistical Learning
+
+### Chapter 3: Linear Regression
+* [Linear Regression](Statistical_Learning/Linear_Regression.ipynb)
+
+### Chapter 4: Classification
+* [Linear Regression (R - Notebook)](Statistical_Learning/Linear_Regression_R.ipynb)
+* [Logistic Regression](Statistical_Learning/Logistic_Regression.ipynb)
+* [Logistic Regression (R - Notebook)](Statistical_Learning/Logistic_Regression_R.ipynb)
+* [Linear Discriminant Analysis (LDA)](Statistical_Learning/Linear_Discriminant_Analysis.ipynb)
+* [Quadratic Discriminant Analysis (QDA)](Statistical_Learning/Quadratic_Discriminant_Analysis.ipynb)
+* [K-Nearest Neighbors (KKN)](Statistical_Learning/K_Nearest_Neighbors.ipynb)
+
+### Chapter 5: Resampling Methods
+* [Resampling Methods](Statistical_Learning/Resampling_Methods.ipynb)
+
+### Chapter 6: Linear Model Selection and Regularization
+* [Linear Model Selection and_Regularization](Statistical_Learning/Linear_Model_Selection_and_Regularization.ipynb)
+
+### Chapter 7: Moving Beyond Linearity
+* [Moving Beyond Linearity](Statistical_Learning/Moving_Beyond_Linearity.ipynb)
+
+### Chapter 8: Tree-Based Methods
+* [The Basics of Decision Trees](Statistical_Learning/The_Basics_of_Decision_Trees.ipynb)
+* [Bagging, Random Forests, Boosting](Statistical_Learning/Bagging_Random_Forests_Boosting.ipynb)
+
+### Chapter 9: Support Vector Machines
+* [Support Vector Machines](Statistical_Learning/Support_Vector_Machines.ipynb)
+
+### Chapter 10: Unsupervised Learning
+* [Unsupervised Learning](Statistical_Learning/Unsupervised_Learning.ipynb)
+
+See also [Data Science](Data_Science) and [Portfolio](/portfolio/).
+
+## Copyright and License
+
+(c) 2020 H. Dastour. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
+
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

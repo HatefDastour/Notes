@@ -61,9 +61,10 @@
 * [Querying Data From A Table](SQL/SQL_Basics_Querying_Data_From_A_Table.ipynb)
 * [Joins](SQL/SQL_Basics_Joins.ipynb)
 * [Operators](SQL/SQL_Basics_Operators.ipynb)
+* [Managing Tables](SQL/SQL_Basics_Managing Tables.ipynb)
+* [Aggregate Functions](SQL/SQL_Basics_Aggregate_Functions.ipynb)
 
 ### SQL Server and Python Connectors
-* [Getting Started with SQLite](SQL/Getting_Started_with_SQLite.ipynb)
 * [Getting Started with MySQL Connector/Python](SQL/etting_Started_with_MySQL_Connector_Python.ipynb)
 * [Reading and Writing Table using Pandas DataFrame](SQL/Reading_and_Writing_Table_using_Pandas_DataFrame.ipynb)
 

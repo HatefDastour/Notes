@@ -19,7 +19,9 @@
 ## Deep Learning
 
 * [Getting_Started_with_Pytorch](Deel_Learning/Getting_Started_with_Pytorch.ipynb)
-* [Digit_Recognizer with Pytorch (Pytorch Logistic Regression and Artificial Neural Network)](Deel_Learning/Digit_Recognizer_with_Pytorch.ipynb)
+* Digit Recognizer
+	* [Classification using PyTorch Logistic Regression](Deel_Learning/Digit_Recognizer_Classification_using_PyTorch_Logistic_Regression.ipynb)
+	* [Digit Recognizer Classification using PyTorch ANN](Deel_Learning/Digit_Recognizer_Classification_using_PyTorch_ANN.ipynb)
 
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)

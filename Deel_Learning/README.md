@@ -4,10 +4,17 @@
 
 ## Deep Learning
 
+## Table of contents
+
+### PyTorch
 * [Getting_Started_with_Pytorch](Getting_Started_with_Pytorch.ipynb)
-* Digit Recognizer
-	* [Classification using PyTorch Logistic Regression](Digit_Recognizer_Classification_using_PyTorch_Logistic_Regression.ipynb)
-	* [Digit Recognizer Classification using PyTorch ANN](Digit_Recognizer_Classification_using_PyTorch_ANN.ipynb)
+* [Logistic Regression_with Pytorch](PyTorch_Logistic_Regression.ipynb)
+* [Artificial Neural Network with_Pytorch (Single Layer and Multiple Layers)](PyTorch_ANN.ipynb)
+
+### Keras
+* Multi-layer Perceptron (MLP) using Keras
+	* [Binary classification](Keras_Binary_MLP.ipynb)
+	* [Multi-Class classification](Keras_MultiClass_MLP.ipynb)
 
 ## Copyright and License
 

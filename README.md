@@ -27,6 +27,7 @@
 * Multi-layer Perceptron (MLP) using Keras
 	* [Binary classification](Deel_Learning/Keras_Binary_MLP.ipynb)
 	* [Multi-Class classification](Deel_Learning/Keras_MultiClass_MLP.ipynb)
+	* [Basic Image Classifications using Keras Multi-Class Classification](Deel_Learning/Basic_Image_Classifications_with_Keras.ipynb)
 
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)

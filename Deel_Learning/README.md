@@ -15,6 +15,7 @@
 * Multi-layer Perceptron (MLP) using Keras
 	* [Binary classification](Keras_Binary_MLP.ipynb)
 	* [Multi-Class classification](Keras_MultiClass_MLP.ipynb)
+	* [Basic Image Classifications using Keras Multi-Class Classification](Basic_Image_Classifications_with_Keras.ipynb)
 
 ## Copyright and License
 

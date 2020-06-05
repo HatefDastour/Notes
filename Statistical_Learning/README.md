@@ -8,9 +8,9 @@
 
 ### Chapter 3: Linear Regression
 * [Linear Regression](Linear_Regression.ipynb)
+* [Linear Regression (R - Notebook)](Linear_Regression_R.ipynb)
 
 ### Chapter 4: Classification
-* [Linear Regression (R - Notebook)](Linear_Regression_R.ipynb)
 * [Logistic Regression](Logistic_Regression.ipynb)
 * [Logistic Regression (R - Notebook)](Logistic_Regression_R.ipynb)
 * [Linear Discriminant Analysis (LDA)](Linear_Discriminant_Analysis.ipynb)

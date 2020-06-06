@@ -23,13 +23,13 @@
 * [Logistic Regression_with Pytorch](Deel_Learning/PyTorch_Logistic_Regression.ipynb)
 * [Artificial Neural Network with_Pytorch (Single Layer and Multiple Layers)](Deel_Learning/PyTorch_ANN.ipynb)
 
-### Keras
+### Tensorflow and Keras
 * Multi-layer Perceptron (MLP) using Keras
 	* [Binary classification](Deel_Learning/Keras_Binary_MLP.ipynb)
 	* [Multi-Class classification](Deel_Learning/Keras_MultiClass_MLP.ipynb)
 	* [Basic Image Classifications using Keras Multi-Class Classification](Deel_Learning/Basic_Image_Classifications_with_Keras.ipynb)
 	* [Keras Regression with MLP](Deel_Learning/Keras_Regression.ipynb)
-
+* [Tensorflow Linear Classifier](Deel_Learning/Tensorflow_Linear_Model.ipynb)
 
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)

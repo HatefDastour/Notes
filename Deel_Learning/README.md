@@ -17,7 +17,9 @@
 	* [Multi-Class classification](Keras_MultiClass_MLP.ipynb)
 	* [Basic Image Classifications using Keras Multi-Class Classification](Basic_Image_Classifications_with_Keras.ipynb)
 	* [Keras Regression with MLP](Keras_Regression.ipynb)
-* [Tensorflow Linear Classifier](Tensorflow_Linear_Model.ipynb)
+* [Tensorflow Classifiers]
+	* [Tensorflow Linear Classifier](Tensorflow_Linear_Classifier.ipynb)
+	* [Tensorflow Deep Neural Network (DNN) Classifier](Tensorflow_DNN_Classifier.ipynb)
 
 ## Copyright and License
 (c) 2020 H. Dastour. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!

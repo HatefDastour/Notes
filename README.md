@@ -29,7 +29,9 @@
 	* [Multi-Class classification](Deel_Learning/Keras_MultiClass_MLP.ipynb)
 	* [Basic Image Classifications using Keras Multi-Class Classification](Deel_Learning/Basic_Image_Classifications_with_Keras.ipynb)
 	* [Keras Regression with MLP](Deel_Learning/Keras_Regression.ipynb)
-* [Tensorflow Linear Classifier](Deel_Learning/Tensorflow_Linear_Model.ipynb)
+* [Tensorflow Classifiers]
+	* [Tensorflow Linear Classifier](Deel_Learning/Tensorflow_Linear_Classifier.ipynb)
+	* [Tensorflow Deep Neural Network (DNN) Classifier](Deel_Learning/Tensorflow_DNN_Classifier.ipynb)
 
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)

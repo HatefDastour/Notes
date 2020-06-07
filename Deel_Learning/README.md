@@ -17,7 +17,7 @@
 	* [Multi-Class classification](Keras_MultiClass_MLP.ipynb)
 	* [Basic Image Classifications using Keras Multi-Class Classification](Basic_Image_Classifications_with_Keras.ipynb)
 	* [Keras Regression with MLP](Keras_Regression.ipynb)
-* [Tensorflow Classifiers]
+* Tensorflow Classifiers
 	* [Tensorflow Linear Classifier](Tensorflow_Linear_Classifier.ipynb)
 	* [Tensorflow Deep Neural Network (DNN) Classifier](Tensorflow_DNN_Classifier.ipynb)
 

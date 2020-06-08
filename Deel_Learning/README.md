@@ -21,6 +21,7 @@
 	* [Tensorflow Linear Classifier](Tensorflow_Linear_Classifier.ipynb)
 	* [Tensorflow Deep Neural Network (DNN) Classifier](Tensorflow_DNN_Classifier.ipynb)
 	* [Tensorflow Boosted Trees Classifier](Tensorflow_Boosted_Trees_Classifier.ipynb)
+	* [Tensorflow Boosted Trees Classifier with Feature Importance Analysis](Tensorflow_Boosted_Trees_Classifier_with_Feature_Importance_Analysis.ipynb)
 	
 ## Copyright and License
 (c) 2020 H. Dastour. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!

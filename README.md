@@ -33,7 +33,8 @@
 	* [Tensorflow Linear Classifier](Deel_Learning/Tensorflow_Linear_Classifier.ipynb)
 	* [Tensorflow Deep Neural Network (DNN) Classifier](Deel_Learning/Tensorflow_DNN_Classifier.ipynb)
 	* [Tensorflow Boosted Trees Classifier](Deel_Learning/Tensorflow_Boosted_Trees_Classifier.ipynb)
-
+	* [Tensorflow Boosted Trees Classifier with Feature Importance Analysis](Deel_Learning/Tensorflow_Boosted_Trees_Classifier_with_Feature_Importance_Analysis.ipynb)
+	
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)
 

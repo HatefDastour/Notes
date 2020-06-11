@@ -35,6 +35,7 @@
 	* [Tensorflow Boosted Trees Classifier](Deel_Learning/Tensorflow_Boosted_Trees_Classifier.ipynb)
 	* [Tensorflow Boosted Trees Classifier with Feature Importance Analysis](Deel_Learning/Tensorflow_Boosted_Trees_Classifier_with_Feature_Importance_Analysis.ipynb)
 * [Image Augmentations with TensorFlow](Deel_Learning/TensorFlow_Augmenting_Images.ipynb)
+* [Text Classification Pipeline with Tensorflow](Deel_Learning/Tensorflow_Text_Classification_Pipeline.ipynb)
 
 ## Differential Equations
 * [Solving ODEs using Python](Differential_Equations/Solving_ODEs.ipynb)

@@ -1,21 +1,5 @@
 # Notes
 
-## Data_Science
-
-### Python
-* [Getting Started with Python](Getting_Started/Getting_Started.ipynb)
-
-### Image and Signal Processing
-* [Image Processing using Robust PCA](Data_Science/IP_PCA.ipynb)
-* [Data Smoothing](Data_Science/Data_Smoothing.ipynb)
-
-### Preprocessing
-* [Preprocessing Data in Python](Data_Science/Preprocessing_Data_in_Python.ipynb)
-
-### Supervised Learning
-* [The Importance of Resampling and Regularization](Data_Science/Resampling_and_Regularization.ipynb)
-* [Supervised Learning Regression Models](Data_Science/Supervised_Learning_Regression_Models.ipynb)
-
 ## Deep Learning
 
 ### PyTorch

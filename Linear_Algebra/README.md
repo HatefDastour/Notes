@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* [Systems of Equations](Systems_of_Equations.ipynb)
+* [Systems of Equations](PyLab_Systems_of_Equations.ipynb)
 * [Matrices](Matrices.ipynb)
 * [Determinants](Determinants.ipynb)
 * [Vectors_in_Rn](Vectors_in_Rn.ipynb)

@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Systems of Equations](PyLab_Systems_of_Equations.ipynb)
-* [Matrices](Matrices.ipynb)
+* [Matrices](PyLab_Matrices.ipynb)
 * [Determinants](Determinants.ipynb)
 * [Vectors_in_Rn](Vectors_in_Rn.ipynb)
 * [Complex Numbers](Complex_Numbers.ipynb)

@@ -4,7 +4,7 @@
 
 * [Systems of Equations](PyLab_Systems_of_Equations.ipynb)
 * [Matrices](PyLab_Matrices.ipynb)
-* [Determinants](Determinants.ipynb)
+* [Determinants](PyLab_Determinants.ipynb)
 * [Vectors_in_Rn](Vectors_in_Rn.ipynb)
 * [Complex Numbers](Complex_Numbers.ipynb)
 * [Spectral Theory](Spectral_Theory.ipynb)

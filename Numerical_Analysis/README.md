@@ -1,15 +1,5 @@
 # Numerical Analysis
 
-## Table of contents
-
-* [Root-finding algorithms](Root_finding_algorithms.ipynb)
-* [Fixed-point iteration](Fixed_point_iteration.ipynb)
-* [Polynomial Interpolation](Polynomial_Interpolation.ipynb)
-* [Numerical Integration](Numerical_Integration.ipynb)
-* [Numerical Differentiation](Numerical_Differentiation.ipynb)
-* [Linear Systems](Linear_Systems.ipynb)
-* [Numerical Solution of ODEs](Numerical_Solution_of_ODEs.ipynb)
-
 ## Copyright and License
 
 (c) 2020 H. Dastour. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
